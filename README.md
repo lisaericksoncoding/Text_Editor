@@ -27,7 +27,7 @@ Once you have the local host running, open your preferred browser. Paste the loc
 
 - [Social Network API Repo](https://github.com/lisaericksoncoding/Text_Editor "PWA Text Editor Repo")
 
-- [Depolyed Link](https://drive.google.com/file/d/1QBro9RUAVfUR0DD4F8m0dy693DJrEFho/view?usp=sharing "Deployed Link")
+- [Depolyed Link](https://texteditorpwalisaerickson.herokuapp.com/ "Deployed Link")
 
 ## Built With
 - Visual Studio Code
